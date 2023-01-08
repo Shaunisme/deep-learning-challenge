@@ -12,7 +12,7 @@ For my first attempt at compiling a neuron network consisted of 80 neurons in th
 
 ![](image/layer1.png)
 
-Here are the preformance metrics of this model, the accuracy rate is only 72.9%.
+Here are the preformance metrics of this model, the accuracy rate is less than 75%.
 
 ![](image/snapshot1.png)
 
@@ -21,7 +21,7 @@ In optimisation, I add back the "NAME" column. I changed the first layer from 80
 
 ![](image/layer2.png)
 
-Here are the preformance metrics of this model, the accuracy rate more than 75%.
+Here are the preformance metrics of this model, the accuracy rate is more than 75%.
 
 ![](image/snapshot2.png)
 
